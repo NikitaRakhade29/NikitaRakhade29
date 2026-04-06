@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **NikitaRakhade29/NikitaRakhade29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,10 +52,6 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikitaRakhade29&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaRakhade29&layout=compact&theme=tokyonight" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikitaRakhade29&theme=tokyonight" width="60%" />
