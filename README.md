@@ -18,15 +18,14 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 **B.Tech in Computer Engineering** — Bajaj Institute of Technology (2025)
-- 📊 **PG Certificate in Big Data Analytics** — CDAC Mumbai *(Feb 2026 – Aug 2026)*
+- 🎓 **B.Tech in Computer Engineering** - Bajaj Institute of Technology (2025)
+- 📊 **PG Certificate in Big Data Analytics** - CDAC Mumbai *(Feb 2026 – Aug 2026)*
 - 🚀 Currently building a **Real-Time Flight Tracking ETL Pipeline** using Spark + Kafka
-- 🌱 Currently learning **Hadoop, Hive, Airflow & Data Pipelines**
+- 🌱 Currently learning **Hadoop, Hive, Spark, Airflow & Data Pipelines**
 - 🏆 **Lila Poonawalla Foundation (LPF) Scholarship Recipient 2022**
 - 🔍 Passionate about turning raw data into meaningful insights
 - 👩‍🎓 I am a student — always learning, always growing
 - 📫 Reach me at **nikitarakhade@gmail.com**
-- ⚡ Fun fact: I debug better with coffee ☕
 
 ---
 
@@ -65,7 +64,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | ✈️ [Real-Time Flight Tracking ETL Pipeline](https://github.com/NikitaRakhade29/real-time-flight-tracking-analysis-etl-pipeline) | Real-time data ingestion, Spark Streaming processing & analytics | PySpark · Kafka · Hadoop · Airflow |
-| 💰 [Home Loan Finance](https://github.com/NikitaRakhade29/HomeLoanFinance) | Loan management system with role-based dashboards | Spring Boot · MySQL |
+| 💰 [Home Loan Finance](https://github.com/NikitaRakhade29/Home_Loan_Finance_project) | Loan management system with role-based dashboards | Spring Boot · MySQL |
 
 ---
 
@@ -108,5 +107,5 @@
 ---
 
 <p align="center">
-  <i>"I am not perfect, but I am always learning."</i> 📚
+  <i>"Data is the new oil - and I'm here to refine it."</i> 🔥
 </p>
