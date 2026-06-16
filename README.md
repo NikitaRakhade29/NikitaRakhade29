@@ -20,11 +20,10 @@
 
 - 🎓 **B.Tech in Computer Engineering** - Bajaj Institute of Technology (2025)
 - 📊 **PG Certificate in Big Data Analytics** - CDAC Mumbai *(Feb 2026 – Aug 2026)*
-- 🚀 Currently building a **Real-Time Flight Tracking ETL Pipeline** using Spark + Kafka
 - 🌱 Currently learning **Hadoop, Hive, Spark, Airflow & Data Pipelines**
 - 🏆 **Lila Poonawalla Foundation (LPF) Scholarship Recipient 2022**
 - 🔍 Passionate about turning raw data into meaningful insights
-- 👩‍🎓 I am a student — always learning, always growing
+- 👩‍🎓 I am a student - always learning, always growing
 - 📫 Reach me at **nikitarakhade@gmail.com**
 
 ---
