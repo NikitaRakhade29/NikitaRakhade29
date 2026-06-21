@@ -100,7 +100,7 @@
 </p>
 ---
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/NikitaRakhade29/NikitaRakhade29/blob/output/github-contribution-grid-snake.svg)
 
