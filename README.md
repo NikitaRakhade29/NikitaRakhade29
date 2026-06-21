@@ -98,6 +98,11 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/NikitaRakhade29/NikitaRakhade29/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
