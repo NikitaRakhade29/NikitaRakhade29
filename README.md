@@ -108,3 +108,8 @@
 <p align="center">
   <i>"Data is the new oil - and I'm here to refine it."</i> 🔥
 </p>
+---
+
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
