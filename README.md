@@ -1,7 +1,3 @@
-<!--
-**NikitaRakhade29/NikitaRakhade29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 <h1 align="center">Hi 👋, I'm Nikita Rakhade</h1>
 <h3 align="center">Big Data Student | PySpark · Kafka · Hadoop | CDAC Mumbai</h3>
 
