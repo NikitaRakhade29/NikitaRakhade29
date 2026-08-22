@@ -59,7 +59,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | ✈️ [Real-Time Flight Tracking ETL Pipeline](https://github.com/NikitaRakhade29/real-time-flight-tracking-analysis-etl-pipeline) | Real-time data ingestion, Spark Streaming processing & analytics | PySpark · Kafka · Hadoop · Airflow |
-| 💰 [Home Loan Finance](https://github.com/NikitaRakhade29/Home_Loan_Finance_project) | Loan management system with role-based dashboards | Spring Boot · MySQL |
+| 💰 [RFP-Sentinel](https://github.com/NikitaRakhade29/rfp-sentinel) | Sentinel Multi-agent RAG system for RFP compliance checking & bid evaluation | FastAPI · LangGraph · vLLM · PostgreSQL |
 
 ---
 
