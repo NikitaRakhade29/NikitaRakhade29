@@ -78,10 +78,10 @@
 
 ### 📜 Certifications
 
-- ☕ Java Programming Fundamentals — *Infosys*
-- 🐍 Python Fundamentals — *Career Credentials*
-- ☁️ AWS Academy Cloud Foundations — *Amazon Web Services*
-- 🖥️ Software Engineering — *Infosys*
+- ☕ Java Programming Fundamentals - *Infosys*
+- 🐍 Python Fundamentals - *Career Credentials*
+- ☁️ AWS Academy Cloud Foundations - *Amazon Web Services*
+- 🖥️ Software Engineering - *Infosys*
 
 ---
 
